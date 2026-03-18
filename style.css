@@ -60,3 +60,19 @@ button:hover {
 #response {
     font-size: 16px;
 }
+.step {
+    text-align: center;
+}
+
+button {
+    margin: 10px 5px;
+}
+#step5 h1 {
+    color: #667eea;
+    font-size: 30px;
+}
+
+#step5 p {
+    font-size: 16px;
+    margin: 10px 0;
+}
